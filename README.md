@@ -9,17 +9,14 @@
   - Collect .env from developer and put on the source root folder
   - Hit following command
     - ``` npm i ```
-    - ``` npm test ```
-    
-    
-        
-    
+    - ``` npm test ```  
   - Report will be generated in Reports folder
     
-## Postman documentation: https://documenter.getpostman.com/view/33823808/2sAYdmjnHt
+## Postman documentation: https://documenter.getpostman.com/view/33823808/2sAYdoF7j8
 
 ## Newman test report:
-  ![image](https://github.com/user-attachments/assets/3270e332-d2d4-45b1-a016-865616e09189)
+  ![image](https://github.com/user-attachments/assets/8b4e6f38-bfbf-4f7b-8a6c-f50c9aaf6c2a)
+
   
 ## Test case: https://docs.google.com/spreadsheets/d/1wqV4F80r2D8bsYfiTStQLNTc2aytIlXe-C9i4XJKxhw/edit?usp=sharing
 
