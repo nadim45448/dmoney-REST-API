@@ -12,7 +12,7 @@
     - ``` npm test ```  
   - Report will be generated in Reports folder
     
-## Postman documentation: https://documenter.getpostman.com/view/33823808/2sAYdoF7j8
+## Postman Documentation: <a href="https://documenter.getpostman.com/view/33823808/2sAYdoF7j8" target="_blank">Click here</a>
 
 ## Newman test report:
   ![image](https://github.com/user-attachments/assets/8b4e6f38-bfbf-4f7b-8a6c-f50c9aaf6c2a)
